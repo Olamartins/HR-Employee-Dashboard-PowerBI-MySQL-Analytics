@@ -6,6 +6,9 @@ Analytical project using MySQL and Microsoft Power BI
 ## Project Overview
 The “HR Employee Dashboard” project aims to provide insights into employee demographics and distribution within the company. It utilizes an open-source HR dataset containing over 22,000 rows from the years 2000 to 2020. The data was ingested into MySQL for ETL (Extract, Transform, Load) processes and subsequent analysis. The final interactive dashboard was built using Microsoft Power BI, enhancing user experience with aesthetics and usability.
 
+## Project Link:
+[Click this Link to the Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZGYyNjUyZDgtODk1ZS00NmNlLThlOWUtYzVmNTQ2YjU2N2VlIiwidCI6IjIyYmVjNDkzLWViOTMtNGViMC1iNGU3LWRlMGJhOTIxOGZhZiJ9)
+
 ## Key Questions Addressed
 The solution addresses the following key questions:
 
